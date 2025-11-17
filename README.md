@@ -2,7 +2,7 @@
 
 ## Project Goal
 
-Use AI prompts (via ai.moringaschool.com) to:
+Use AI prompts to:
 
 * Learn Rust from zero
 * Create a simple runnable project (excluding Python, Java, JavaScript)
@@ -143,7 +143,7 @@ Thank you for visiting Delicious Bites Restaurant!
 
 | Prompt I gave to ai.moringaschool.com                                  | What I learned / Reflection                                           |
 | ---------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| "Teach me Rust from absolute zero in 2025, no Python/Java/JS examples" | Got ownership, borrowing, and lifetimes explained simply in 3 minutes |
+| "Teach me Rust from absolute zero in 2025," | Got ownership, borrowing, and lifetimes explained simply in 3 minutes |
 | "Write the simplest Hello World in Rust and explain every line"        | Understood fn main(), println! macro, and why we need use std::io     |
 | "How do I read user input in Rust?"                                    | Discovered io::stdin().read_line() – very clean and easy              |
 | "Common Rust installation errors in Kenya and fixes"                   | Learned to use source $HOME/.cargo/env after install                  |
