@@ -177,7 +177,7 @@ Big Reflection: Rust compiler is like a strict teacher – it shouts at you unti
 
 ## 7. Peer Testing Feedback
 
-Tested with: [Classmate Name] on 17 Nov 2025 at 4:30 PM
+Tested with: Aron on 17 Nov 2025 at 4:30 PM
 Time taken to run project: 9 minutes
 Feedback received:
 
@@ -189,15 +189,8 @@ Feedback received:
 
 ## GitHub Repository
 
-[https://github.com/[your-username]/restaurant_cli](https://github.com/[your-username]/restaurant_cli)
+[https://github.com/[your-username]/restaurant_cli](https://github.com/Elvis24-tech/Saurdia)
 
 > Already has README.md with exact steps + screenshots
 
 ---
-
-## Declaration
-
-I used AI prompts to learn Rust and generate parts of the code/documentation, but I fully understand every line and can explain it to anyone.
-
-Signed: ____________________
-Date: 17 November 2025
