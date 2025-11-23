@@ -189,8 +189,5 @@ Feedback received:
 
 ## GitHub Repository
 
-[https://github.com/[your-username]/restaurant_cli](https://github.com/Elvis24-tech/Saurdia)
+https://github.com/Elvis24-tech/Saurdia
 
-> Already has README.md with exact steps + screenshots
-
----
